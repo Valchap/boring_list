@@ -1,3 +1,6 @@
+![Adblock Plus]
+! Title: Boring List
+! Expires: 2 days
 ||facebook.com^
 ||instagram.com^
 ||linkedin.com^
