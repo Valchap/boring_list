@@ -1,6 +1,10 @@
 ![Adblock Plus]
 ! Title: Boring List
 ! Expires: 2 days
+! Homepage: https://github.com/Valchap/boring_list
+! Licence: https://github.com/Valchap/boring_list/blob/main/LICENSE
+! GitHub issues: https://github.com/Valchap/boring_list/issues
+! GitHub pull requests: https://github.com/Valchap/boring_list/pulls
 ||facebook.com^
 ||instagram.com^
 ||linkedin.com^
